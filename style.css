@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    background-color: #00cec9;
+    height: 26vh;
+    width: 100%;
+}
+.h a{
+    text-decoration: none;
+    align-content: space-evenly;
+    color: black;
+}
+
+.reg{
+    height: 5vh;
+    width: 20vh;
+    margin-right: 3vh;
+    margin-left: 7vh;
+    border-radius: 10px;
+    background-color: #00cec9;
+    border-color: white;
+    /* border: white; */
+}
+
+.reg:hover{
+    background-color: black;
+    color: white;
+}
+.log{
+    height: 5vh;
+    width: 20vh;
+    margin-right: 3vh;
+    border-radius: 10px;
+    background-color: #00cec9;
+    border-color: white;
+    /* border: white; */
+}
+
+.log:hover{
+    background-color: black;
+    color: white;
+}
